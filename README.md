@@ -1,7 +1,7 @@
 ## Hi, I'm Sadia Islam 👋
 [<img src='https://github.com/codewithsad/codwithsad/blob/main/img/bg.jpg?raw=true' alt='Sadia Islam'>](https://github.com/codewithsad/)
 <p>
-👑 I am Web Developer <br> 
+👑 I am High Converting Landing Page Designer & Sales Funnel Expert <br> 
 🖊️ Love to write code <br> 
 🎤 Like to share my knowledge </p> 
 
@@ -26,8 +26,9 @@ I’m a Front End Web developer passionate about making error-free websites with
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsad&layout=compact)
 
 
-## ☕ Connect with me!
-[<img src='https://github.com/codewithsad/codwithsad/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/codewithsad)  [<img src='https://github.com/codewithsad/codwithsad/blob/main/img/instagram.png?raw=true' alt='instagram' height='40'>](https://www.instagram.com/codewithsad/)  [<img src='https://github.com/codewithsad/codwithsad/blob/main/img/twitter.png?raw=true' alt='twitter' height='40'>](https://twitter.com/codwithsad)  [<img src='https://github.com/codewithsad/codwithsad/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/web-developer-codewithsad/)  
+:coffee: &emsp;Connect with me!
+
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sumit.analyzen) [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/learnwithsumit) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumitanalyzen/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/learnwithsumit) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sumit_analyzen) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayhitorainmaker@gmail.com)
 
 
 
