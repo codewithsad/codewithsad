@@ -18,7 +18,7 @@ I’m a Front End Web developer passionate about making error-free websites with
 ✅ HTML5 / CSS3 / SASS / Bootstrap <br>
 ✅ Photoshop / Illustrator <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codwithsad&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsad&layout=compact)
 
 
 ## ☕ Connect with me!
