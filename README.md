@@ -1,4 +1,4 @@
-## Hi, This is Sadia Islam 👋
+## Hi, This is Sadia Islam <img src="assets/hello.gif" width="28px" alt="hi">
 [<img src='https://github.com/codewithsad/codwithsad/blob/main/img/bg.jpg?raw=true' alt='Sadia Islam'>](https://github.com/codewithsad/)
 <p>
 👨‍💻 I'm High Converting Landing Page Designer & Sales Funnel Expert <br> 
