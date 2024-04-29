@@ -2,7 +2,7 @@
 [<img src='https://github.com/codewithsad/codwithsad/blob/main/img/bg.jpg?raw=true' alt='Sadia Islam'>](https://github.com/codewithsad/)
 <p>
 👨‍💻 I'm High Converting Landing Page Designer & Sales Funnel Expert <br> 
-⚡WP, CF & Unbounce Expert <br>
+⚡ WP, CF & Unbounce Expert <br>
 ⭐ Tips, Tricks & Resources <br>
 🖊️ Love to write code <br> 
 🎤 Like to share my knowledge <br>
