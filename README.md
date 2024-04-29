@@ -1,9 +1,13 @@
 ## Hi, This is Sadia Islam 👋
 [<img src='https://github.com/codewithsad/codwithsad/blob/main/img/bg.jpg?raw=true' alt='Sadia Islam'>](https://github.com/codewithsad/)
 <p>
-👑 I'm High Converting Landing Page Designer & Sales Funnel Expert <br> 
+👨‍💻 I'm High Converting Landing Page Designer & Sales Funnel Expert <br> 
+⚡WP, CF & Unbounce Expert <br>
+⭐ Tips, Tricks & Resources <br>
 🖊️ Love to write code <br> 
-🎤 Like to share my knowledge </p> 
+🎤 Like to share my knowledge <br>
+👉 Open to collabs/projects </p> 
+
 
 <p align="left"> <a href="https://twitter.com/codewithsad" target="blank"><img src="https://img.shields.io/twitter/follow/codewithsad?logo=twitter&style=for-the-badge" alt="codewithsad" /></a> </p>
 
