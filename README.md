@@ -13,7 +13,7 @@
 
 
 ## 🚀 About Me
-I’m a Front End Web developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP. 
+Experienced High Converting Landing Page Designer & WordPress Developer with a demonstrated history of working in the IT industry. I am highly experienced with Landing Page building tools and familiar with Unbounce, Instapage, Leadpages, Clickfunnels, GoHighLevel, Wix & WordPress etc. Also expert with WordPress Theme, Visual Composer, Elementor, Divi Plugins & Theme Customization. I'm passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. Over the past years, I created 50s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP. 
 
 #### Things I code with
 
